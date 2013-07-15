@@ -27,6 +27,8 @@ Chinese region data with yaml format. There levels currently: **province**, **ci
 
 ## Usage
 
+First of all, download the latest yaml file from: [https://github.com/Xuhao/china_region_data/raw/master/regions.yml](https://github.com/Xuhao/china_region_data/raw/master/regions.yml)
+
 ### Ruby
 
 ```ruby
