@@ -43,7 +43,7 @@ put 'gem china_region_fu' to your Gemfile:
 
     gem 'china_region_fu'
 
-Checkout [ChainRegionFu](https://github.com/Xuhao/china_region_fu) for more details
+Check out [ChainRegionFu](https://github.com/Xuhao/china_region_fu) gem for more details
 
 :two_men_holding_hands: Examples for other languages need your help! :hand:
 
