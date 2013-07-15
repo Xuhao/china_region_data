@@ -37,7 +37,15 @@ regions = File.open('regions.yml') { |file| YAML.load(file) }
 # => {"北京市"=>{"pinyin"=>"beijing", "pinyin_abbr"=>"bj", "cities"=> ...
 ```
 
-Examples for other languages need your help! :hand:
+### Ruby on Rails
+
+put 'gem china_region_fu' to your Gemfile:
+
+    gem 'china_region_fu'
+
+Checkout [ChainRegionFu](https://github.com/Xuhao/china_region_fu) for more details
+
+:two_men_holding_hands: Examples for other languages need your help! :hand:
 
 # Contributing
 
