@@ -3,6 +3,8 @@ China region data
 
 Chinese region data with yaml format. There levels currently: **province**, **city**, **district**.
 
+Will provide other formats in the future, like: xml, sql etc.
+
 ## Schema
 
 ### Province
