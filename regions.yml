@@ -118,6 +118,9 @@
         宝坻区:
           pinyin: baochi
           pinyin_abbr: bc
+        滨海新区:
+          pinyin: binhai
+          pinyin_abbr: bh
         宁河县:
           pinyin: ninghe
           pinyin_abbr: nh
@@ -1544,6 +1547,12 @@
         铁西区:
           pinyin: tiexi
           pinyin_abbr: tx
+        浑南新区:
+          pinyin: hunnan
+          pinyin_abbr: hn
+        沈北新区:
+          pinyin: shengbei
+          pinyin_abbr: sb
         苏家屯区:
           pinyin: sujiatun
           pinyin_abbr: sjt
@@ -2617,6 +2626,18 @@
         漠河县:
           pinyin: mohe
           pinyin_abbr: mh
+        加格达奇区:
+          pinyin: jiagedaqi
+          pinyin_abbr: jgdq
+        松岭区:
+          pinyin: songling
+          pinyin_abbr: sl
+        新林区:
+          pinyin: xinlin
+          pinyin_abbr: xl
+        呼中区:
+          pinyin: huzhong
+          pinyin_abbr: hz
 上海市:
   pinyin: shanghai
   pinyin_abbr: sh
@@ -3238,6 +3259,9 @@
         桐乡市:
           pinyin: tongxiang
           pinyin_abbr: tx
+        南湖区:
+          pinyin: nanhu
+          pinyin_abbr: nh
     湖州市:
       pinyin: huzhou
       pinyin_abbr: hz
@@ -3482,6 +3506,12 @@
         南陵县:
           pinyin: nanling
           pinyin_abbr: nl
+        弋江区:
+          pinyin: yijiang
+          pinyin_abbr: yj
+        三山区:
+          pinyin: sanshan
+          pinyin_abbr: ss
     蚌埠市:
       pinyin: bangbu
       pinyin_abbr: bb
@@ -3626,6 +3656,9 @@
         桐城市:
           pinyin: tongcheng
           pinyin_abbr: tc
+        宜秀区:
+          pinyin: yixiu
+          pinyin_abbr: yx
     黄山市:
       pinyin: huangshan
       pinyin_abbr: hs
@@ -4195,6 +4228,9 @@
         进贤县:
           pinyin: jinxian
           pinyin_abbr: jx
+        红谷滩新区:
+          pinyin: honggutan
+          pinyin_abbr: hgt
     景德镇市:
       pinyin: jingdezhen
       pinyin_abbr: jdz
@@ -5097,6 +5133,9 @@
         登封市:
           pinyin: dengfeng
           pinyin_abbr: df
+        高新区:
+          pinyin: gaoxin
+          pinyin_abbr: gx
     开封市:
       pinyin: kaifeng
       pinyin_abbr: kf
@@ -5133,6 +5172,12 @@
         兰考县:
           pinyin: lankao
           pinyin_abbr: lk
+        禹王台区:
+          pinyin: yuwangtai
+          pinyin_abbr: ywt
+        金明区:
+          pinyin: jingming
+          pinyin_abbr: jm
     洛阳市:
       pinyin: luoyang
       pinyin_abbr: ly
@@ -5983,6 +6028,9 @@
         广水市:
           pinyin: guangshui
           pinyin_abbr: gs
+        随县:
+          pinyin: shuixian
+          pinyin_abbr: sx
     恩施土家族苗族自治州:
       pinyin: enshi
       pinyin_abbr: es
@@ -6392,6 +6440,12 @@
         江华瑶族自治县:
           pinyin: jianghuayaozu
           pinyin_abbr: jhyz
+        江华县:
+          pinyin: jianghua
+          pinyin_abbr: jh
+        零陵区:
+          pinyin: linglin
+          pinyin_abbr: ll
     怀化市:
       pinyin: huaihua
       pinyin_abbr: hh
@@ -6531,6 +6585,9 @@
         从化市:
           pinyin: conghua
           pinyin_abbr: ch
+        南沙区:
+          pinyin: nansha
+          pinyin_abbr: ns
     韶关市:
       pinyin: shaoguan
       pinyin_abbr: sg
@@ -7060,6 +7117,9 @@
         三江侗族自治县:
           pinyin: sanjiangtongzu
           pinyin_abbr: sjtz
+        柳东新区:
+          pinyin: liudong
+          pinyin_abbr: sjtz
     桂林市:
       pinyin: guilin
       pinyin_abbr: gl
@@ -7111,7 +7171,7 @@
         平乐县:
           pinyin: pingle
           pinyin_abbr: pl
-        荔蒲县:
+        荔浦县:
           pinyin: lipu
           pinyin_abbr: lp
         恭城瑶族自治县:
@@ -7372,7 +7432,7 @@
       zip_code: '532200'
       level: 4
       districts:
-        江洲区:
+        江州区:
           pinyin: jiangzhou
           pinyin_abbr: jz
         扶绥县:
@@ -7837,6 +7897,9 @@
         苍溪县:
           pinyin: cangxi
           pinyin_abbr: cx
+        利州区:
+          pinyin: lizhou
+          pinyin_abbr: lz
     遂宁市:
       pinyin: suining
       pinyin_abbr: sn
@@ -9410,6 +9473,9 @@
         高陵县:
           pinyin: gaoling
           pinyin_abbr: gl
+        高新区:
+          pinyin: gaoxin
+          pinyin_abbr: gx
     铜川市:
       pinyin: tongchuan
       pinyin_abbr: tc
@@ -9581,7 +9647,7 @@
         志丹县:
           pinyin: zhidan
           pinyin_abbr: zd
-        吴旗县:
+        吴起县:
           pinyin: wuqi
           pinyin_abbr: wq
         甘泉县:
@@ -9846,6 +9912,12 @@
         张家川回族自治县:
           pinyin: zhangjiachuanhuizu
           pinyin_abbr: zjchz
+        秦州区:
+          pinyin: qinzhou
+          pinyin_abbr: qz
+        麦积区:
+          pinyin: maiji
+          pinyin_abbr: mj
     武威市:
       pinyin: wuwei
       pinyin_abbr: ww
@@ -9942,6 +10014,9 @@
         敦煌市:
           pinyin: dunhuang
           pinyin_abbr: dh
+        瓜州县:
+          pinyin: guazhou
+          pinyin_abbr: gz
     庆阳市:
       pinyin: qingyang
       pinyin_abbr: qy
@@ -10404,6 +10479,9 @@
         乌鲁木齐县:
           pinyin: wulumuqi
           pinyin_abbr: wlmq
+        米东区:
+          pinyin: midong
+          pinyin_abbr: md
     克拉玛依市:
       pinyin: kelamayi
       pinyin_abbr: klmy
