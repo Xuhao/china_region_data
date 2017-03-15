@@ -1527,7 +1527,7 @@
   pinyin_abbr: ln
   cities:
     沈阳市:
-      pinyin: chenyang
+      pinyin: shenyang
       pinyin_abbr: cy
       zip_code: '110000'
       level: 2
